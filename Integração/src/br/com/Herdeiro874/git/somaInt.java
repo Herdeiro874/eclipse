@@ -6,6 +6,9 @@ public class somaInt {
 	public static void main(String[] args)
 	{
 		
+		System.out.print("integrado\n ");
+		
+		
 		int x, y, z;
 		
 		System.out.print("escreve x\n ");
